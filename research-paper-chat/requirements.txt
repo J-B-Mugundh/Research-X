@@ -1,0 +1,11 @@
+streamlit
+pyttsx3
+SpeechRecognition
+PyPDF2
+langchain
+google-generativeai
+gensim
+faiss-cpu
+python-dotenv
+langchain_google_genai
+chromadb
